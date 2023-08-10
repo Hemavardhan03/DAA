@@ -1,5 +1,5 @@
 1.FIBONACCI    
-2.ARMSTRONG OR NOT    
+2.ARMSTRONG OR NOT        
 3.GCD      
 4.LARGEST ELEMENT IN ARRAY                 
 5.FACTORIAL              
